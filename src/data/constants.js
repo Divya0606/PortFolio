@@ -354,7 +354,7 @@ export const projects = [
     description:
       " Designed multiple web pages including Home, Shop, About, Contact, and Journal, each featuring intuitive navigation and engaging user interfaces.Designed and developed responsive user interface for an e-commerce website using React.Js, ensuring seamless user experience across devices.",
     image:
-      "https://raw.githubusercontent.com/Divya0606/Portfolio/main/src/images/Restaurent-system.png",
+      "https://github.com/Divya0606/PortFolio/blob/main/src/images/Restaurant-system.png?raw=true",
     tags: ["HTML", "CSS", "JavaScript", "PHP","WordPress"],
     category: "full-stack app",
     github: "https://github.com/Divya0606/Restaurant-System",

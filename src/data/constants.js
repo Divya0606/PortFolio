@@ -10,8 +10,7 @@ export const Bio = {
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/Divya0606",
-    resume:"https://drive.google.com/file/d/1DiCy_yS5VhQlN_V4gN5aFbxiJ6FM8Go-/view?usp=sharing",
-      
+    resume:"https://drive.google.com/file/d/1QaCEk2ZP5n554dghpapa4YORaomtAiYA/view",
     linkedin: "https://www.linkedin.com/in/divya-agarwal0808/",
     twitter: "https://twitter.com/DIVYAAGARWAL06",
     insta: "https://www.instagram.com/divyaagarwal0808/",
@@ -137,6 +136,15 @@ export const skills = [
 
 
 export const experiences = [
+  {
+    id: 0,
+    img: "data:image/jpeg;base64,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",
+    role: "Full Stack developer ",
+    company: "Celebal Technologies ",
+    date: "April 2024 - May 2024",
+    desc: "Demonstrated proficiency in front end and backend development, as well as effective collaboration within a team environment",
+    // doc: "https://media.licdn.com/dms/image/D4D22AQGzSpgFaR4hsQ/feedshare-shrink_800/0/1684079632872?e=1687996800&v=beta&t=i0xWn_k32Oj9SxKfc6rARSbOghXD9Ge6WyEb2p2vvrc",
+  },
   
   {
     id: 0,
@@ -237,15 +245,15 @@ export const projects = [
     description:
     "The React Calculator is a web application built using the React library, providing users with a sleek and responsive interface for performing basic arithmetic calculations. Designed with a modern and user-friendly layout, this calculator offers an intuitive user experience.",
      image:
-     "https://private-user-images.githubusercontent.com/110676881/288301890-41150e81-f332-4067-85f9-ec20e89409aa.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDIxMTI2OTUsIm5iZiI6MTcwMjExMjM5NSwicGF0aCI6Ii8xMTA2NzY4ODEvMjg4MzAxODkwLTQxMTUwZTgxLWYzMzItNDA2Ny04NWY5LWVjMjBlODk0MDlhYS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIwOVQwODU5NTVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jYjExNWRlNTg2ZTViNTU2NDc3OWIwNzAyNWM3MTczZmEwMDhhYWJlYWNkZmU0ZDUxYzVmOGU2YTk0NWNkOGQ1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.bDXhpL4esvIN3OJB7B_URf-XmaGXwt881VuxoIq-Xo8",
-     //"https://github.com/Divya0606/Calculator/assets/110676881/41150e81-f332-4067-85f9-ec20e89409aa",
+     //"https://private-user-images.githubusercontent.com/110676881/288301890-41150e81-f332-4067-85f9-ec20e89409aa.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDIxMTI2OTUsIm5iZiI6MTcwMjExMjM5NSwicGF0aCI6Ii8xMTA2NzY4ODEvMjg4MzAxODkwLTQxMTUwZTgxLWYzMzItNDA2Ny04NWY5LWVjMjBlODk0MDlhYS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIwOVQwODU5NTVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jYjExNWRlNTg2ZTViNTU2NDc3OWIwNzAyNWM3MTczZmEwMDhhYWJlYWNkZmU0ZDUxYzVmOGU2YTk0NWNkOGQ1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.bDXhpL4esvIN3OJB7B_URf-XmaGXwt881VuxoIq-Xo8",
+     "https://github.com/Divya0606/Portfolio/blob/main/src/images/Calculator.png?raw=true",
     tags: [
       "HTML",
       "CSS",
       "JS",
       "React Js"
     ],
-    category: "web app",
+    category: "front-end app",
     github: "https://github.com/Divya0606/Calculator",
     //webapp: "https://trackify.duckdns.org",
   },
@@ -256,34 +264,40 @@ export const projects = [
     description:
       "The React Tic-Tac-Toe Game is a web-based implementation of the classic two-player game, built using the React library. This interactive and engaging application allows users to enjoy the timeless Tic-Tac-Toe experience in a modern and dynamic setting." ,
     image:
-    "https://private-user-images.githubusercontent.com/110676881/289260264-77b1b2fb-c8d9-477e-8fe6-4b10f2b175c6.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDIxMTMxMzEsIm5iZiI6MTcwMjExMjgzMSwicGF0aCI6Ii8xMTA2NzY4ODEvMjg5MjYwMjY0LTc3YjFiMmZiLWM4ZDktNDc3ZS04ZmU2LTRiMTBmMmIxNzVjNi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIwOVQwOTA3MTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iOWM1Y2UyNDJjYmQzMTA2ZjkzZWVjNTdkYWQzNzY4YjhiYzI0NDM3ZTU0NmU2OTZmYTEwYTI0OWYwZjEyMTg0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.LklJBp0X4C4Jp2cpOOYecTjcznPBBEkrSP7mnlbM6Uk",
+      "https://github.com/Divya0606/Portfolio/blob/main/src/images/Tik-Tok.png?raw=true",
+    //"https://private-user-images.githubusercontent.com/110676881/289260264-77b1b2fb-c8d9-477e-8fe6-4b10f2b175c6.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDIxMTMxMzEsIm5iZiI6MTcwMjExMjgzMSwicGF0aCI6Ii8xMTA2NzY4ODEvMjg5MjYwMjY0LTc3YjFiMmZiLWM4ZDktNDc3ZS04ZmU2LTRiMTBmMmIxNzVjNi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIwOVQwOTA3MTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iOWM1Y2UyNDJjYmQzMTA2ZjkzZWVjNTdkYWQzNzY4YjhiYzI0NDM3ZTU0NmU2OTZmYTEwYTI0OWYwZjEyMTg0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.LklJBp0X4C4Jp2cpOOYecTjcznPBBEkrSP7mnlbM6Uk",
      // "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
     tags: ["HTML","CSS","JS","React Js"],
-    category: "web app",
+    category: "front-end app",
     github: "https://github.com/Divya0606/React-Game",
     //webapp: "https://podstream.netlify.app/",
    
   },
   {
-    id: 1,
-    title: "RealTime-Chat-Appplication",
-    date: "Nov 2023 - Nov,2023",
-    description:
-      " Design and developed this collaborative tool enables users to engage in instant conversations, fostering real-time communication and collaboration in a seamless and user-friendly environment.",
-    image:
-      "https://private-user-images.githubusercontent.com/110676881/289260413-ae956c42-4e3b-4ebd-aa2a-d571858a5468.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDIxMTMzMzgsIm5iZiI6MTcwMjExMzAzOCwicGF0aCI6Ii8xMTA2NzY4ODEvMjg5MjYwNDEzLWFlOTU2YzQyLTRlM2ItNGViZC1hYTJhLWQ1NzE4NThhNTQ2OC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIwOVQwOTEwMzhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04ZjljOWU3MDE2NzlkZmQ5NTg3N2EzNGZiZTNmYmY2NTQ5MzkzM2E3Mzc4OGYwMDlmZDM1NzZhZDE3YjhhZjBjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.uPJN-YSvDRvvd6ZxIEWvzCZ_1FidUSyyjlKd0OzVMnE",
-    tags: [
-      "HTML",
-      "CSS",
-      "JS",
-      "React Js",
-      "MongoDb",
-      "Node Js",
-      "Express Js",
-    ],
-    category: "web app",
-    github: "https://github.com/Divya0606/RealTime-Chat-Application",
-    //webapp: "https://vexa-app.netlify.app/",
+    
+      id: 1,
+      title: "StydyNotion",
+      date: "Nov 2023 - March 2024",
+      description:
+        " Developed StudyNotion, a flexible and user-friendly ed-tech platform enabling users to create, access, and evaluate instructional materials. Leveraged ReactJs for the front end to ensure a seamless user experience, while utilizing NodeJS and ExpressJS for the back end to handle user authentication, course management, and more. Employed MongoDB as a NoSQL database to efficiently store course content, user data, and other relevant information.",
+      image:
+        "https://raw.githubusercontent.com/Divya0606/Portfolio/main/src/images/StudyNotion.png",
+        //"https://private-user-images.githubusercontent.com/110676881/289260413-ae956c42-4e3b-4ebd-aa2a-d571858a5468.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDIxMTMzMzgsIm5iZiI6MTcwMjExMzAzOCwicGF0aCI6Ii8xMTA2NzY4ODEvMjg5MjYwNDEzLWFlOTU2YzQyLTRlM2ItNGViZC1hYTJhLWQ1NzE4NThhNTQ2OC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIwOVQwOTEwMzhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04ZjljOWU3MDE2NzlkZmQ5NTg3N2EzNGZiZTNmYmY2NTQ5MzkzM2E3Mzc4OGYwMDlmZDM1NzZhZDE3YjhhZjBjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.uPJN-YSvDRvvd6ZxIEWvzCZ_1FidUSyyjlKd0OzVMnE",
+      tags: [
+        "HTML",
+        "CSS",
+        "JS",
+        "React Js",
+        "APIs",
+        "NoSQL",
+        "MongoDb",
+        "Node Js",
+        "Express Js",
+      ],
+      category: "full-stack app",
+      github: "https://github.com/Divya0606/StudyNotion",
+      fullstackapp : "https://study-notion-techskill.vercel.app/",
+    
   },
   {
     id: 2,
@@ -292,7 +306,8 @@ export const projects = [
     description:
     "The Razorpay Clone is a meticulously crafted payment gateway web application developed using React.js for the frontend and powered by Tailwind CSS for a sleek and modern user interface.",
     image:
-      "https://private-user-images.githubusercontent.com/110676881/289260949-2f95f54b-6dce-4e77-8d24-5afa188584e4.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDIxMTM3NDgsIm5iZiI6MTcwMjExMzQ0OCwicGF0aCI6Ii8xMTA2NzY4ODEvMjg5MjYwOTQ5LTJmOTVmNTRiLTZkY2UtNGU3Ny04ZDI0LTVhZmExODg1ODRlNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIwOVQwOTE3MjhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05ZTJiZTI0N2UzZjQxMjAxNjNhNzk2Yzg5NWNkMDEwNDViNzk5YjA2YjRkNzBkMGRmNzlhM2Q3ZDg0NjNjYmMwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.E5491oqqM3XHRs9GxbyYXW4TEV8E7Vcc7daU1HeR0HE",
+      "https://github.com/Divya0606/Portfolio/blob/main/src/images/Rzorpay.png?raw=true",
+      //"https://private-user-images.githubusercontent.com/110676881/289260949-2f95f54b-6dce-4e77-8d24-5afa188584e4.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDIxMTM3NDgsIm5iZiI6MTcwMjExMzQ0OCwicGF0aCI6Ii8xMTA2NzY4ODEvMjg5MjYwOTQ5LTJmOTVmNTRiLTZkY2UtNGU3Ny04ZDI0LTVhZmExODg1ODRlNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIwOVQwOTE3MjhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05ZTJiZTI0N2UzZjQxMjAxNjNhNzk2Yzg5NWNkMDEwNDViNzk5YjA2YjRkNzBkMGRmNzlhM2Q3ZDg0NjNjYmMwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.E5491oqqM3XHRs9GxbyYXW4TEV8E7Vcc7daU1HeR0HE",
     tags: ["HTML", "CSS", "TailWind CSS", "JavaScript"],
     category: "web app",
     github: "https://github.com/Divya0606/RazorPay-Clone",
@@ -307,15 +322,44 @@ export const projects = [
     description:
     "Developed and implemented a responsive front-end colouring project using HTML, CSS, and JavaScript and gained hands-on experience in UI/UX design principles.",
     image:
-      "https://private-user-images.githubusercontent.com/110676881/289261243-27462bb5-52a0-45c3-9b42-c51382554d93.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDIxMTQwMjYsIm5iZiI6MTcwMjExMzcyNiwicGF0aCI6Ii8xMTA2NzY4ODEvMjg5MjYxMjQzLTI3NDYyYmI1LTUyYTAtNDVjMy05YjQyLWM1MTM4MjU1NGQ5My5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIwOVQwOTIyMDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05N2NiMWZjYTk3Njk2NTdiNDE1NTUwYWFlNDJjOGIyMzVjOTVhNDExOWRmZWVmMTE0OGI5OGI3ZGJhMzlhMGE0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.sV1j7e_arHOkeHXaE32wcxjIEM3IZIjqPw2Ke-VedWc",
+      "https://raw.githubusercontent.com/Divya0606/Portfolio/main/src/images/Pigment.png",
+     // "https://github.com/Divya0606/Portfolio/blob/main/src/images/Pigment.png?raw=true",
+     // "https://github.com/Divya0606/Portfolio-Images/blob/main/Screenshot%202023-12-09%20145054.png?raw=true",
+    //  "https://private-user-images.githubusercontent.com/110676881/289261243-27462bb5-52a0-45c3-9b42-c51382554d93.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDIxMTQwMjYsIm5iZiI6MTcwMjExMzcyNiwicGF0aCI6Ii8xMTA2NzY4ODEvMjg5MjYxMjQzLTI3NDYyYmI1LTUyYTAtNDVjMy05YjQyLWM1MTM4MjU1NGQ5My5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIwOVQwOTIyMDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05N2NiMWZjYTk3Njk2NTdiNDE1NTUwYWFlNDJjOGIyMzVjOTVhNDExOWRmZWVmMTE0OGI5OGI3ZGJhMzlhMGE0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.sV1j7e_arHOkeHXaE32wcxjIEM3IZIjqPw2Ke-VedWc",
 
       
     tags: ["HTML","CSS" ,"JavaScript"],
     category: "web app",
     github: "https://github.com/Divya0606/Pigment",
+    webapp: "https://pigment-three.vercel.app/",
     //webapp: "https://github.com/rishavchanda/Job-finder-App",
   },
- 
+  {
+    id: 5,
+    title: "OREBI",
+    date: "Jun 2024",
+    description:
+      " Designed multiple web pages including Home, Shop, About, Contact, and Journal, each featuring intuitive navigation and engaging user interfaces.Designed and developed responsive user interface for an e-commerce website using React.Js, ensuring seamless user experience across devices.",
+    image:
+      "https://raw.githubusercontent.com/Divya0606/Portfolio/main/src/images/OREBI.png",
+    tags: ["HTML", "Tailwind CSS", "JavaScript", "React.JS","Redux"],
+    category: "web app",
+    github: "https://github.com/Divya0606/React-store",
+    webapp: "https://react-store1-tau.vercel.app/",
+  },
+  {
+    id: 5,
+    title: "Restaurent Table Booking System",
+    date: "May 2024",
+    description:
+      " Designed multiple web pages including Home, Shop, About, Contact, and Journal, each featuring intuitive navigation and engaging user interfaces.Designed and developed responsive user interface for an e-commerce website using React.Js, ensuring seamless user experience across devices.",
+    image:
+      "https://raw.githubusercontent.com/Divya0606/Portfolio/main/src/images/Restaurent-system.png",
+    tags: ["HTML", "CSS", "JavaScript", "PHP","WordPress"],
+    category: "full-stack app",
+    github: "https://github.com/Divya0606/Restaurant-System",
+    webapp: "https://restaurent-table-booking.000webhostapp.com/",
+  },
   // {
   //   id: 5,
   //   title: "Todo Web App",
